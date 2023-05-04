@@ -1,2 +1,2 @@
 # Omnifood
-a website build with HTML and CSS
+a website built with HTML and CSS
