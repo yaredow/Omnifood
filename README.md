@@ -15,9 +15,6 @@ Omnifood is a fictional company that delivers healthy and delicious food to your
 - A sign-up section with a pricing table and a form.
 - A footer section with social media links and a back-to-top button.
 
-## Demo
-
-You can view the live demo of the website here: https://omnifood-project.netlify.app/
 
 ## Installation
 
