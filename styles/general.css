@@ -116,3 +116,6 @@ btn-full:active {
 .grid--3-cols {
   grid-template-columns: repeat(3, 1fr);
 }
+.grid-center-v {
+  align-self: center;
+}
